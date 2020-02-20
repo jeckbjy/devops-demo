@@ -1,6 +1,6 @@
-workspace:
-  base: src/github.com/jeckbjy/devops-demo
-  path: .
+# workspace:
+#   base: src/github.com/jeckbjy/devops-demo
+#   path: .
 
 pipeline:
   build:
