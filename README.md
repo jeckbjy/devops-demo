@@ -11,3 +11,11 @@
 
 - https://www.jianshu.com/p/3025c3814961
 - https://segmentfault.com/a/1190000011218410
+
+## jenkins
+
+- http://blog.itpub.net/31555606/viewspace-2636129/
+
+## build dockerfile
+
+- [kaniko](https://github.com/GoogleContainerTools/kaniko)
